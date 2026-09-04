@@ -1,3 +1,9 @@
 flask
-python
+gunicorn
+boto3
+satpy
 numpy
+xarray
+dask
+pyresample
+ 
